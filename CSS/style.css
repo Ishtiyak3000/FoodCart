@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  /* background-color: rgb(218, 193, 219); */
+  background: linear-gradient();
+  background: linear-gradient(-135deg, #ff88eb, #7beffe);
+
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  /* background-color: #f8f9fa; */
+}
+.signup-card {
+  padding: 2rem;
+  font-weight: bold;
+  max-width: 400px;
+  border-radius: 10px;
+
+  width: 100%;
+}
