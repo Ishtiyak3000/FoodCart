@@ -63,6 +63,7 @@ body {
 .items {
   
     display: flex;
+    background-color: #f8be9e;
     /* background-color: rgb(235, 171, 203); */
     width: 100%;
     flex-direction: column;
